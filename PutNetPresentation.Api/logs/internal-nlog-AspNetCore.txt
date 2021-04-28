@@ -1,0 +1,154 @@
+2021-04-27 22:57:16.0001 Info Message Template Auto Format enabled
+2021-04-27 22:57:16.0147 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 22:57:16.0692 Info Adding target FileTarget(Name=allfile)
+2021-04-27 22:57:16.0758 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 22:57:16.0758 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 22:57:16.0758 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 22:57:16.1156 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-27 23:03:47.3429 Info Message Template Auto Format enabled
+2021-04-27 23:03:47.3563 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 23:03:47.3941 Info Adding target FileTarget(Name=allfile)
+2021-04-27 23:03:47.3941 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 23:03:47.3941 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 23:03:47.4017 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 23:03:47.4323 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-27 23:06:20.2242 Info Message Template Auto Format enabled
+2021-04-27 23:06:20.2356 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 23:06:20.2891 Info Adding target FileTarget(Name=allfile)
+2021-04-27 23:06:20.3039 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 23:06:20.3039 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 23:06:20.3039 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 23:06:20.3486 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-27 23:37:43.2036 Info Message Template Auto Format enabled
+2021-04-27 23:37:43.2248 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 23:37:43.2860 Info Adding target FileTarget(Name=allfile)
+2021-04-27 23:37:43.2970 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 23:37:43.2970 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 23:37:43.2970 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 23:37:43.3369 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-27 23:55:00.1763 Info Message Template Auto Format enabled
+2021-04-27 23:55:00.2186 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 23:55:00.3184 Info Adding target FileTarget(Name=allfile)
+2021-04-27 23:55:00.3256 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 23:55:00.3256 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 23:55:00.3256 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 23:55:00.3655 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-27 23:57:36.0411 Info Message Template Auto Format enabled
+2021-04-27 23:57:36.0570 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-27 23:57:36.0973 Info Adding target FileTarget(Name=allfile)
+2021-04-27 23:57:36.1058 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-27 23:57:36.1058 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-27 23:57:36.1058 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-27 23:57:36.1383 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:06:10.8046 Info Message Template Auto Format enabled
+2021-04-28 00:06:10.8245 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:06:10.8731 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:06:10.9272 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:06:10.9272 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:06:10.9272 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:06:10.9751 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:09:25.9752 Info Message Template Auto Format enabled
+2021-04-28 00:09:25.9945 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:09:26.0412 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:09:26.0496 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:09:26.0496 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:09:26.0496 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:09:26.0868 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:11:29.2071 Info Message Template Auto Format enabled
+2021-04-28 00:11:29.2262 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:11:29.2757 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:11:29.2830 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:11:29.2830 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:11:29.2830 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:11:29.3370 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:14:27.1614 Info Message Template Auto Format enabled
+2021-04-28 00:14:27.1861 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:14:27.2531 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:14:27.2627 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:14:27.2627 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:14:27.2627 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:14:27.3020 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:14:46.3627 Info Message Template Auto Format enabled
+2021-04-28 00:14:46.3939 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:14:46.4617 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:14:46.4742 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:14:46.4742 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:14:46.4742 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:14:46.5103 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:16:01.8310 Info Message Template Auto Format enabled
+2021-04-28 00:16:01.8457 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:16:01.9048 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:16:01.9048 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:16:01.9048 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:16:01.9180 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:16:01.9614 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:16:55.8871 Info Message Template Auto Format enabled
+2021-04-28 00:16:55.9043 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:16:55.9533 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:16:55.9533 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:16:55.9533 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:16:55.9533 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:16:56.0035 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:18:20.3601 Info Message Template Auto Format enabled
+2021-04-28 00:18:20.3865 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:18:20.4473 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:18:20.4549 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:18:20.4549 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:18:20.4549 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:18:20.4910 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:18:55.8789 Info Message Template Auto Format enabled
+2021-04-28 00:18:55.8942 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:18:55.9467 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:18:55.9542 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:18:55.9542 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:18:55.9542 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:18:55.9963 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:19:32.9306 Info Message Template Auto Format enabled
+2021-04-28 00:19:32.9434 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:19:32.9791 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:19:32.9897 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:19:32.9897 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:19:32.9897 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:19:33.0251 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:21:31.4321 Info Message Template Auto Format enabled
+2021-04-28 00:21:31.4532 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:21:31.5093 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:21:31.5399 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:21:31.5399 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:21:31.5424 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:21:31.5823 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:21:49.1860 Info Message Template Auto Format enabled
+2021-04-28 00:21:49.2002 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:21:49.2391 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:21:49.2483 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:21:49.2483 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:21:49.2483 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:21:49.2880 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 00:24:11.3747 Info Message Template Auto Format enabled
+2021-04-28 00:24:11.3941 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 00:24:11.4568 Info Adding target FileTarget(Name=allfile)
+2021-04-28 00:24:11.4678 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 00:24:11.4678 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 00:24:11.4678 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 00:24:11.5108 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 14:06:24.3774 Info Message Template Auto Format enabled
+2021-04-28 14:06:24.3999 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 14:06:24.4573 Info Adding target FileTarget(Name=allfile)
+2021-04-28 14:06:24.4706 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 14:06:24.4706 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 14:06:24.4706 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 14:06:24.5249 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 14:07:45.4338 Info Message Template Auto Format enabled
+2021-04-28 14:07:45.4489 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 14:07:45.4952 Info Adding target FileTarget(Name=allfile)
+2021-04-28 14:07:45.4952 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 14:07:45.4952 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 14:07:45.4952 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 14:07:45.5547 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
+2021-04-28 14:09:17.2154 Info Message Template Auto Format enabled
+2021-04-28 14:09:17.2325 Info Loading assembly: NLog.Web.AspNetCore
+2021-04-28 14:09:17.2861 Info Adding target FileTarget(Name=allfile)
+2021-04-28 14:09:17.2958 Info Adding target FileTarget(Name=ownFile-web)
+2021-04-28 14:09:17.2958 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-04-28 14:09:17.2958 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-04-28 14:09:17.3364 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=C:\Users\jakub.wajs\source\repos\PutNetPresentation\PutNetPresentation.Api\bin\Debug\net5.0\nlog.config
